@@ -1,6 +1,8 @@
 # PDF Image Extractor
 [fabiocionini.it](https://fabiocionini.it)
 
+Quick and dirty PDF image extractor script.
+
 ## Installation
 - Create a virtual environment, such as `python3 -m venv venv; source venv/bin/activate`
 - Install requirements with `pip install -r requirements.txt`
